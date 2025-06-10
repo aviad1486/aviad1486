@@ -1,6 +1,6 @@
 # Hello, I'm Aviad 👋
 
-🎓 **Currently**: I'm a third-year Computer Science student at Ono Academic College of Israel.
+🚀 **Currently**: Junior Data Engineer.
 
 🌱 **Learning**: Continuously exploring new technologies and improving my skills.
 
