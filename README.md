@@ -1,6 +1,6 @@
 # Hello, I'm Aviad 👋
 
-🚀 **Currently**: Junior Data Engineer.
+🚀 **Currently**: Computer Science Graduate.
 
 🌱 **Learning**: Continuously exploring new technologies and improving my skills.
 
